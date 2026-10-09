@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/workspaces/solstice/build/_deps/directxtk-subbuild/CMakeFiles/directxtk-populate"
+		},
+		{
+			"file" : "/workspaces/solstice/build/_deps/directxtk-subbuild/CMakeFiles/directxtk-populate.rule"
+		},
+		{
+			"file" : "/workspaces/solstice/build/_deps/directxtk-subbuild/CMakeFiles/directxtk-populate-complete.rule"
+		},
+		{
+			"file" : "/workspaces/solstice/build/_deps/directxtk-subbuild/directxtk-populate-prefix/src/directxtk-populate-stamp/directxtk-populate-build.rule"
+		},
+		{
+			"file" : "/workspaces/solstice/build/_deps/directxtk-subbuild/directxtk-populate-prefix/src/directxtk-populate-stamp/directxtk-populate-configure.rule"
+		},
+		{
+			"file" : "/workspaces/solstice/build/_deps/directxtk-subbuild/directxtk-populate-prefix/src/directxtk-populate-stamp/directxtk-populate-download.rule"
+		},
+		{
+			"file" : "/workspaces/solstice/build/_deps/directxtk-subbuild/directxtk-populate-prefix/src/directxtk-populate-stamp/directxtk-populate-install.rule"
+		},
+		{
+			"file" : "/workspaces/solstice/build/_deps/directxtk-subbuild/directxtk-populate-prefix/src/directxtk-populate-stamp/directxtk-populate-mkdir.rule"
+		},
+		{
+			"file" : "/workspaces/solstice/build/_deps/directxtk-subbuild/directxtk-populate-prefix/src/directxtk-populate-stamp/directxtk-populate-patch.rule"
+		},
+		{
+			"file" : "/workspaces/solstice/build/_deps/directxtk-subbuild/directxtk-populate-prefix/src/directxtk-populate-stamp/directxtk-populate-test.rule"
+		},
+		{
+			"file" : "/workspaces/solstice/build/_deps/directxtk-subbuild/directxtk-populate-prefix/src/directxtk-populate-stamp/directxtk-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"directxtk-populate"
+		],
+		"name" : "directxtk-populate"
+	}
+}

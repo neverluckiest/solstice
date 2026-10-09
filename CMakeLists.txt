@@ -41,9 +41,7 @@ endif ()
 
 
 
-set(CMAKE_UNITY_BUILD FALSE)
 set(CMAKE_MSVC_RUNTIME_LIBRARY "$<$<CONFIG:Debug>:MultiThreadedDLL>")
-#fuck you kiero
 add_compile_options(/bigobj) 
 #fuck you msvc
 
@@ -190,7 +188,6 @@ include_directories(include/libhat)
 include_directories(include/entt)
 include_directories(include/libhat/libhat)
 include_directories(include/ImGui)
-include_directories(include/Kiero)
 include_directories(include/nes)
 
 file(GLOB_RECURSE sourceFiles "src/*.cpp")
@@ -231,7 +228,6 @@ endforeach()
 add_resources(resource_files ${resource_files})
 
 add_library(Solstice SHARED ${sourceFiles} ${resource_files})
-set_property(TARGET Solstice PROPERTY UNITY_BUILD TRUE)
 add_dependencies(${PROJECT_NAME} generate_build_info SolsticeShaders)
 
 set(RESOURCE_HEADER_FILE "${CMAKE_CURRENT_SOURCE_DIR}/src/Utils/Resources.hpp")
@@ -308,22 +304,14 @@ message(STATUS "Generated Resources.cpp")
 add_subdirectory(include/minhook)
 add_subdirectory(include/libhat)
 add_subdirectory(include/ImGui)
-add_subdirectory(include/Kiero)
 add_subdirectory(include/nes)
 
 
-set_property(TARGET DirectXTK PROPERTY UNITY_BUILD FALSE)
-set_property(TARGET minhook PROPERTY UNITY_BUILD FALSE)
 
 target_include_directories(Solstice PRIVATE include/ImGui)
-target_include_directories(Solstice PRIVATE include/Kiero)
 
 
-target_link_libraries(Solstice PRIVATE OpenMP::OpenMP_CXX  DirectXTK spdlog version.lib nlohmann_json glm minhook kiero nuvola_event_system libhat dbghelp.lib winmm.lib magic_enum d3d12.lib d3d11.lib d2d1.lib dxgi.lib dxguid.lib dwrite.lib winmm.lib dbghelp.lib comctl32.lib ws2_32.lib cryptopp ole32.lib Mmdevapi.lib WindowsApp.lib OneCore.lib )
-
-set_property(TARGET Solstice nlohmann_json minhook spdlog cryptopp  DirectXTK glm kiero nuvola_event_system magic_enum libhat PROPERTY MSVC_RUNTIME_LIBRARY "$<$<CONFIG:Debug>:MultiThreadedDLL>$<$<CONFIG:Release>:MultiThreaded>")
 
 
-target_precompile_headers(Solstice PRIVATE
-        "$<$<COMPILE_LANGUAGE:CXX>:<src/pch.hpp$<ANGLE-R>>"
-)
+
+

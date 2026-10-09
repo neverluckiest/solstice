@@ -1,0 +1,116 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/workspaces/solstice/build/_deps/directxtk-src/Audio/AudioEngine.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/AudioEngine.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/AudioEngine.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/AudioEngine.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/AudioEngine.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Audio/DynamicSoundEffectInstance.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/DynamicSoundEffectInstance.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/DynamicSoundEffectInstance.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/DynamicSoundEffectInstance.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/DynamicSoundEffectInstance.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Audio/SoundCommon.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/SoundCommon.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/SoundCommon.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/SoundCommon.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/SoundCommon.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Audio/SoundEffect.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/SoundEffect.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/SoundEffect.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/SoundEffect.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/SoundEffect.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Audio/SoundEffectInstance.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/SoundEffectInstance.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/SoundEffectInstance.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/SoundEffectInstance.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/SoundEffectInstance.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Audio/SoundStreamInstance.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/SoundStreamInstance.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/SoundStreamInstance.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/SoundStreamInstance.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/SoundStreamInstance.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Audio/WAVFileReader.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/WAVFileReader.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/WAVFileReader.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/WAVFileReader.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/WAVFileReader.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Audio/WaveBank.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/WaveBank.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/WaveBank.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/WaveBank.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/WaveBank.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Audio/WaveBankReader.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/WaveBankReader.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/WaveBankReader.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/WaveBankReader.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Audio/WaveBankReader.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/AlphaTestEffect.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/AlphaTestEffect.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/AlphaTestEffect.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/AlphaTestEffect.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/AlphaTestEffect.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/BasicEffect.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/BasicEffect.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/BasicEffect.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/BasicEffect.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/BasicEffect.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/BasicPostProcess.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/BasicPostProcess.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/BasicPostProcess.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/BasicPostProcess.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/BasicPostProcess.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/BinaryReader.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/BinaryReader.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/BinaryReader.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/BinaryReader.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/BinaryReader.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/BufferHelpers.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/BufferHelpers.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/BufferHelpers.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/BufferHelpers.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/BufferHelpers.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/CommonStates.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/CommonStates.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/CommonStates.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/CommonStates.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/CommonStates.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/DDSTextureLoader.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/DDSTextureLoader.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/DDSTextureLoader.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/DDSTextureLoader.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/DDSTextureLoader.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/DGSLEffect.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/DGSLEffect.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/DGSLEffect.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/DGSLEffect.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/DGSLEffect.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/DGSLEffectFactory.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/DGSLEffectFactory.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/DGSLEffectFactory.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/DGSLEffectFactory.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/DGSLEffectFactory.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/DebugEffect.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/DebugEffect.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/DebugEffect.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/DebugEffect.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/DebugEffect.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/DirectXHelpers.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/DirectXHelpers.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/DirectXHelpers.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/DirectXHelpers.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/DirectXHelpers.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/DualPostProcess.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/DualPostProcess.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/DualPostProcess.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/DualPostProcess.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/DualPostProcess.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/DualTextureEffect.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/DualTextureEffect.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/DualTextureEffect.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/DualTextureEffect.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/DualTextureEffect.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/EffectCommon.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/EffectCommon.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/EffectCommon.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/EffectCommon.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/EffectCommon.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/EffectFactory.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/EffectFactory.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/EffectFactory.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/EffectFactory.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/EffectFactory.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/EnvironmentMapEffect.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/EnvironmentMapEffect.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/EnvironmentMapEffect.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/EnvironmentMapEffect.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/EnvironmentMapEffect.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/GeometricPrimitive.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/GeometricPrimitive.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/GeometricPrimitive.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/GeometricPrimitive.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/GeometricPrimitive.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/Geometry.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/Geometry.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/Geometry.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/Geometry.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/Geometry.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/GraphicsMemory.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/GraphicsMemory.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/GraphicsMemory.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/GraphicsMemory.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/GraphicsMemory.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/Model.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/Model.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/Model.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/Model.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/Model.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/ModelLoadCMO.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/ModelLoadCMO.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/ModelLoadCMO.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/ModelLoadCMO.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/ModelLoadCMO.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/ModelLoadSDKMESH.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/ModelLoadSDKMESH.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/ModelLoadSDKMESH.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/ModelLoadSDKMESH.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/ModelLoadSDKMESH.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/ModelLoadVBO.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/ModelLoadVBO.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/ModelLoadVBO.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/ModelLoadVBO.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/ModelLoadVBO.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/NPREffect.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/NPREffect.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/NPREffect.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/NPREffect.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/NPREffect.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/NPREffectFactory.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/NPREffectFactory.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/NPREffectFactory.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/NPREffectFactory.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/NPREffectFactory.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/NormalMapEffect.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/NormalMapEffect.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/NormalMapEffect.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/NormalMapEffect.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/NormalMapEffect.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/PBREffect.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/PBREffect.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/PBREffect.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/PBREffect.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/PBREffect.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/PBREffectFactory.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/PBREffectFactory.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/PBREffectFactory.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/PBREffectFactory.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/PBREffectFactory.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/PrimitiveBatch.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/PrimitiveBatch.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/PrimitiveBatch.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/PrimitiveBatch.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/PrimitiveBatch.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/ScreenGrab.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/ScreenGrab.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/ScreenGrab.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/ScreenGrab.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/ScreenGrab.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/SimpleMath.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/SimpleMath.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/SimpleMath.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/SimpleMath.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/SimpleMath.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/SkinnedEffect.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/SkinnedEffect.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/SkinnedEffect.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/SkinnedEffect.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/SkinnedEffect.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/SpriteBatch.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/SpriteBatch.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/SpriteBatch.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/SpriteBatch.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/SpriteBatch.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/SpriteFont.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/SpriteFont.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/SpriteFont.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/SpriteFont.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/SpriteFont.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/ToneMapPostProcess.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/ToneMapPostProcess.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/ToneMapPostProcess.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/ToneMapPostProcess.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/ToneMapPostProcess.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/VertexTypes.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/VertexTypes.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/VertexTypes.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/VertexTypes.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/VertexTypes.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-src/Src/WICTextureLoader.cpp" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/WICTextureLoader.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/WICTextureLoader.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/WICTextureLoader.cpp.o" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/Src/WICTextureLoader.cpp.o.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx.cxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx.gch" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx.gch.d"
+  "/workspaces/solstice/build/_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx.gch" "gcc" "_deps/directxtk-build/CMakeFiles/DirectXTK.dir/cmake_pch.hxx.gch.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

@@ -1,0 +1,14 @@
+# Target labels
+ directxtk-populate
+# Source files and their labels
+/workspaces/solstice/build/_deps/directxtk-subbuild/CMakeFiles/directxtk-populate
+/workspaces/solstice/build/_deps/directxtk-subbuild/CMakeFiles/directxtk-populate.rule
+/workspaces/solstice/build/_deps/directxtk-subbuild/CMakeFiles/directxtk-populate-complete.rule
+/workspaces/solstice/build/_deps/directxtk-subbuild/directxtk-populate-prefix/src/directxtk-populate-stamp/directxtk-populate-build.rule
+/workspaces/solstice/build/_deps/directxtk-subbuild/directxtk-populate-prefix/src/directxtk-populate-stamp/directxtk-populate-configure.rule
+/workspaces/solstice/build/_deps/directxtk-subbuild/directxtk-populate-prefix/src/directxtk-populate-stamp/directxtk-populate-download.rule
+/workspaces/solstice/build/_deps/directxtk-subbuild/directxtk-populate-prefix/src/directxtk-populate-stamp/directxtk-populate-install.rule
+/workspaces/solstice/build/_deps/directxtk-subbuild/directxtk-populate-prefix/src/directxtk-populate-stamp/directxtk-populate-mkdir.rule
+/workspaces/solstice/build/_deps/directxtk-subbuild/directxtk-populate-prefix/src/directxtk-populate-stamp/directxtk-populate-patch.rule
+/workspaces/solstice/build/_deps/directxtk-subbuild/directxtk-populate-prefix/src/directxtk-populate-stamp/directxtk-populate-test.rule
+/workspaces/solstice/build/_deps/directxtk-subbuild/directxtk-populate-prefix/src/directxtk-populate-stamp/directxtk-populate-update.rule
